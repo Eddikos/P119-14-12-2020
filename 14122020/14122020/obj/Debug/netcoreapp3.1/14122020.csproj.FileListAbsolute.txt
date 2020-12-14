@@ -1,0 +1,11 @@
+C:\Users\EldarA\source\repos\14122020\14122020\bin\Debug\netcoreapp3.1\14122020.exe
+C:\Users\EldarA\source\repos\14122020\14122020\bin\Debug\netcoreapp3.1\14122020.deps.json
+C:\Users\EldarA\source\repos\14122020\14122020\bin\Debug\netcoreapp3.1\14122020.runtimeconfig.json
+C:\Users\EldarA\source\repos\14122020\14122020\bin\Debug\netcoreapp3.1\14122020.runtimeconfig.dev.json
+C:\Users\EldarA\source\repos\14122020\14122020\bin\Debug\netcoreapp3.1\14122020.dll
+C:\Users\EldarA\source\repos\14122020\14122020\bin\Debug\netcoreapp3.1\14122020.pdb
+C:\Users\EldarA\source\repos\14122020\14122020\obj\Debug\netcoreapp3.1\14122020.csprojAssemblyReference.cache
+C:\Users\EldarA\source\repos\14122020\14122020\obj\Debug\netcoreapp3.1\14122020.AssemblyInfoInputs.cache
+C:\Users\EldarA\source\repos\14122020\14122020\obj\Debug\netcoreapp3.1\14122020.AssemblyInfo.cs
+C:\Users\EldarA\source\repos\14122020\14122020\obj\Debug\netcoreapp3.1\14122020.dll
+C:\Users\EldarA\source\repos\14122020\14122020\obj\Debug\netcoreapp3.1\14122020.pdb
